@@ -65,6 +65,10 @@ deck/     16-slide case study (PPTX + PDF)
 research/ survey instrument summary & key findings
 ```
 
+## Resume
+
+📄 [Aryan_Maan_Resume.pdf](Aryan_Maan_Resume.pdf)
+
 ## Team
 
 Team Visionary Vanguards — Abhinav Jain · **Aryan Maan** · Manit Singh · Mayank Gupta · Soumyadeep Podder
