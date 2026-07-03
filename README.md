@@ -73,4 +73,4 @@ research/ survey instrument summary & key findings
 
 Team Visionary Vanguards — Abhinav Jain · **Aryan Maan** · Manit Singh · Mayank Gupta · Soumyadeep Podder
 
-*Contact: aryan.maan.ug23@nsut.ac.in · [LinkedIn](https://www.linkedin.com/)*
+*Contact: aryan.maan.ug23@nsut.ac.in · [LinkedIn](https://www.linkedin.com/in/aryan-maan-a79bbb26a/)*
